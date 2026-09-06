@@ -29,3 +29,7 @@ Passagem emitida com sucesso!
 Passagem de Primeira Classe atualizada com sucesso!
 Alteração realizada pelo atendente: Roberto Alves
 [Auditoria]: Verificação de segurança realizada para a Primeira Classe.
+
+```
+---
+*Projeto desenvolvido para fins de aprendizado e avaliação acadêmica.*
